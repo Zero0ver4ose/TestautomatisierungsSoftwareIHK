@@ -1,0 +1,13 @@
+ Testcase: 21102023 
+ current date: 2023-09-15 
+
+ Tester: Minh-Phi Nguyen 
+
+ Website: http://10.40.226.38:8080/Minh-Phi_Nguyen/index.php#
+
+
+ Testfall 1 > Testet, ob Eingabe nach Groß- und  Kleinbuchstaben mit dem Produkt validieren. 
+
+ Ergebnis: Test wurde erfolgreich durchgefuehrt. 
+ Suche nach Produkt validiert auch mit Klein- Grossbuchstaben 
+ >>> Funktion ist OK!

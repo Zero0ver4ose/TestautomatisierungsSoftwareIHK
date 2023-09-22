@@ -1,0 +1,24 @@
+ Testcase: 21102023 
+ current date: 2023-09-15 
+
+ Tester: Minh_Phi 
+
+ Website: http://10.40.226.38:8080/Minh-Phi_Nguyen/index.php#
+
+
+ Testfall 1 > Testet, ob Produkte im Warenkorb nach erneutem Login gespeichert ist. 
+ Ergebnis: Test wurde erfolgreich durchgefuehrt. 
+ Die Produkte wurden gespeichert. 
+ >>>> Funktion ist OK!
+
+
+ Testfall 2 > Testet, ob die Anzahl eines Produktes mit dem Gesamtpreis übereinstimmt 
+ Ergebnis: Test wurde erfolgreich durchgefuehrt. 
+ Der Gesamtpreis kolediert mit der Anzahl der Produkte. 
+ >>> Funktion sollte ueberprueft werden!
+
+
+ Testfall 3 > Testet, ob die Summe im Warenkorb mit dem addierten Preis in der Datenbank übereinstimmt. 
+ Ergebnis: Test wurde erfolgreich durchgefuehrt. 
+ Die Summe stimmt mit dem Warenwert überein. 
+ >>>> Funktion ist OK!

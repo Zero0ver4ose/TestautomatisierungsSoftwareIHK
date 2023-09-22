@@ -1,0 +1,21 @@
+ Testcase: 21102023 
+ current date: 2023-09-15 
+
+ Tester: Minh-Phi Nguyen 
+
+ Website: http://10.40.226.38:8080/Minh-Phi_Nguyen/index.php#
+
+
+ Testfall 1 > Teste, ob Passwort verdeckt ist. 
+ Ergebnis: Test wurde erfolgreich durchgefuehrt. Das Passwort ist verdeckt 
+ >>> Funktion ist OK!
+
+
+ Testfall 2 > Teste, ob Login nach vier fehlversuche gesperrt ist. 
+ Ergebnis: Test wurde erfolgreich durchgefuehrt. Das Account wurde nach vier versuchen gesperrt. 
+ >>> Funktion ist OK!
+
+
+ Testfall 3 > Teste, ob Gross- und Kleinbuchstaben validieren. 
+ Ergebnis: Test wurde erfolgreich durchgefuehrt. Gross- und Kleinbuchstaben validieren. 
+ >>> Funktion sollte ueberprueft werden!
